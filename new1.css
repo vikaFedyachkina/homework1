@@ -43,7 +43,7 @@ html, body {
  font-size: 70px;
  letter-spacing: 10px;
  text-align: center;
- color: white;
+ color: black;
  font-weight: 400;
  text-transform: uppercase;
  z-index: 10;
@@ -57,7 +57,7 @@ html, body {
  font-weight: 400;
  letter-spacing: 8px;
  text-transform: center;
- color: white;
+ color: black;
 }
 #landing p {
  font-family: 'Source Sans Pro', sans-serif;
