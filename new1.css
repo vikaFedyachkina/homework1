@@ -4,11 +4,11 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: black;
+  background-color: white;
 }
 .box {
     width: 80%;
-    position: absolute;
+    position: centre;
     margin: auto;
   overflow: auto;
 }
