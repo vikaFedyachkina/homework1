@@ -57,7 +57,7 @@ html, body {
 
     width: 100%;
 
-    text-align: center;
+    text-align: right;
 
 }
 
@@ -244,8 +244,6 @@ button:focus {
     background-color: #6c63ff;
 
     font-size: 18px;
-	
-	text-align: center;
 
 }
 
@@ -323,8 +321,6 @@ border: 0;
     font-size: 15px;
 
     color: white;
-	
-	text-align: center;
 
 
     }
