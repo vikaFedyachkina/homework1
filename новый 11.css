@@ -104,6 +104,8 @@ html, body {
     font-size: 44px;
 
     margin: 0 0 20px;
+	
+	padding: 50px 150px;
 
     line-height: 1.4;
 
@@ -242,6 +244,8 @@ button:focus {
     background-color: #6c63ff;
 
     font-size: 18px;
+	
+	text-align: center;
 
 }
 
@@ -319,6 +323,8 @@ border: 0;
     font-size: 15px;
 
     color: white;
+	
+	text-align: center;
 
 
     }
