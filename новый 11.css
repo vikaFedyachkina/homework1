@@ -113,7 +113,7 @@ html, body {
 
 .landing .info p {
 
-    margin: 0;
+    margin: 50px;
 
     line-height: 1.6;
 
@@ -165,7 +165,7 @@ h2 {
 
   letter-spacing: .125rem;
 
-  text-transform: lowercase;
+  text-transform: upperrcase;
 
   color: white;
 
