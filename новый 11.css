@@ -308,7 +308,11 @@ border: 0;
 }
 #additional p {
 
-    margin: 50px;
+    margin: 0;
+	
+	padding-right: 50px;
+
+    padding-left: 50px;
 
     line-height: 1.6;
 
