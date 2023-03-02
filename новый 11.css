@@ -20,11 +20,11 @@ html, body {
 
     width: 100%;
 
-    padding-right: 50px;
+    padding-right: 15px;
 
-    padding-left: 150px;
+    padding-left: 15px;
 
-    margin: center;
+    margin: 0;
 
 }
 .landing {
@@ -104,8 +104,6 @@ html, body {
     font-size: 44px;
 
     margin: 0 0 20px;
-	
-	padding: 50px 150px;
 
     line-height: 1.4;
 
@@ -115,18 +113,15 @@ html, body {
 
 .landing .info p {
 
-    margin-top: 30px;
+    margin-top: 0;
 
     line-height: 1.6;
-	
-	padding: 50px 150px;
 
     font-size: 15px;
 
     color: white;
 
 }
-
 .landing .info button {
 
     border: 0;
@@ -315,8 +310,6 @@ border: 0;
     margin: 0;
 
     line-height: 1.6;
-	
-	padding: 50px 150px;
 
     font-size: 15px;
 
