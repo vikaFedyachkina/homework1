@@ -113,7 +113,7 @@ html, body {
 
 .landing .info p {
 
-    margin-top: 15pх;
+    margin-top: 0;
 
     line-height: 1.6;
 
@@ -310,6 +310,8 @@ border: 0;
     margin: 0;
 
     line-height: 1.6;
+	
+	padding: 10px 0 0;
 
     font-size: 15px;
 
