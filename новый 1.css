@@ -20,11 +20,11 @@ html, body {
 
     width: 100%;
 
-    padding-right: 50px;
+    padding-right: 15px;
 
-    padding-left: 50px;
+    padding-left: 15px;
 
-    margin: auto;
+    margin: 0;
 
 }
 .landing {
@@ -113,7 +113,7 @@ html, body {
 
 .landing .info p {
 
-    margin: 0;
+    margin-top: 15pх;
 
     line-height: 1.6;
 
@@ -122,7 +122,6 @@ html, body {
     color: white;
 
 }
-
 .landing .info button {
 
     border: 0;
@@ -165,7 +164,7 @@ h2 {
 
   letter-spacing: .125rem;
 
-  text-transform: lowercase;
+  text-transform: upperrcase;
 
   color: white;
 
