@@ -113,7 +113,7 @@ html, body {
 
 .landing .info p {
 
-    margin: 50px;
+    margin: 0;
 
     line-height: 1.6;
 
@@ -308,7 +308,7 @@ border: 0;
 }
 #additional p {
 
-    margin: 0;
+    margin: 50px;
 
     line-height: 1.6;
 
